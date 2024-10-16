@@ -1,7 +1,4 @@
-"""             Comentários de várias linhas.           19/02/24
-  CEUB  -  FATECS  -  BCC  -  ADS  -  Programação  -  Prof. Barbosa
-ctlr<d>, duplica linha. ctrl<y>, apaga linha. ctrl</>, comenta linha.
-
+"""
 - Implemente:
 1- Crie a classe Livro com os atributos: título, autor, páginas e preço.
 2- Crie o método construtor (init) que recebe quatro parâmetros e
