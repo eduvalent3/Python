@@ -1,5 +1,5 @@
 """
-- Implemente:
+Implemente:
 1- Crie a classe Livro com os atributos: título, autor, páginas e preço.
 2- Crie o método construtor (init) que recebe quatro parâmetros e
    use pelo menos um desses parâmetros com valor default (padrão)
