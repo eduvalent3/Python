@@ -1,6 +1,6 @@
 class AlunoCeub:
     def __init__(self, nome, mensalidade, idade):
-        self.nome = nome                                  #atributos
+        self.nome = nome                                  #Atributos
         self.mensalidade = mensalidade                    #self.nome_atributo = parametro
         self.idade = idade
 
