@@ -29,7 +29,7 @@ class Veiculo(object):
         if novo_valor > 0:
             self.valor = novo_valor
         else:
-            print('Erro: valor inconsistente')
+            print('Error: valor inconsistente')
 
     def mostra_dados(self):
         print('- modelo:', self.modelo)
