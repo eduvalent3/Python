@@ -1,4 +1,4 @@
-""""- Desenvolva o programa que cria uma lista vazia, lê vários números,
+""""Desenvolva o programa que cria uma lista vazia, lê vários números,
 armazena na lista e mostre estas informações:
 
 a- Mostre a lista;
